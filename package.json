@@ -1,0 +1,18 @@
+{
+  "name": "u2_taller_06",
+  "version": "1.0.0",
+  "description": "U2_TALLER_06",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allysson Guzmán",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5"
+  }
+}
